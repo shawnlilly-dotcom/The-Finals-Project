@@ -91,7 +91,7 @@ The purpose of these test cases is to verify that the initial GameVault applicat
 | Test ID | Test Case | Status |
 |---|---|---|
 | TC-01 | Application Startup | Passed |
-| TC-02 | Required Field Validation | Not Yet Tested |
+| TC-02 | Required Field Validation | Passed |
 | TC-03 | Add Game Functionality | Passed |
 | TC-04 | Display Saved Games | Passed |
 | TC-05 | Database Persistence | Passed |
